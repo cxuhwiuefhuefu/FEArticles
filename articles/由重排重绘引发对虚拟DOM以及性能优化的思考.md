@@ -156,7 +156,7 @@
     ```js
     <textarea rows="20" cols="120" id="textarea1" >
         <img src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" alt="">  
-    </TEXTAREA>
+    </textarea>
     ``` 
   - 瀑布流
     - 其实懒加载并不能减少HTTP请求数，它只是减少页面刚加载的时候的HTTP请求数，总数是不变的。对于图片而言，在页面加载的时候可能只加载第一屏的图片，随着用户的滚动才会加载后面的图片资源，这种瀑布流的加载方式就可以有效提高性能。
