@@ -3,6 +3,10 @@
 
 
 
+## JS基础
+[由重排重绘引发对虚拟DOM以及性能优化的思考](https://github.com/cxuhwiuefhuefu/FEArticles/blob/master/articles/%E7%94%B1%E9%87%8D%E6%8E%92%E9%87%8D%E7%BB%98%E5%BC%95%E5%8F%91%E5%AF%B9%E8%99%9A%E6%8B%9FDOM%E4%BB%A5%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%9A%84%E6%80%9D%E8%80%83.md)
+
+
 
 
 ## 生活
