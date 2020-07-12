@@ -8,7 +8,7 @@
 
 实现功能为：将JS文件丶CSS文件和图片文件打包输出，html文件动态引入打包后的bundle.js丶CSS文件和图片
 
-[demo地址](https://github.com/cxuhwiuefhuefu/studyWebpack)
+[使用`webpak4.28.0`踩坑记](https://github.com/cxuhwiuefhuefu/studyWebpack)
 
 
 
